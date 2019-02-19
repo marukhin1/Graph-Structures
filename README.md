@@ -5,3 +5,8 @@
 ![image](https://user-images.githubusercontent.com/32647200/53032673-551e0600-3480-11e9-9d30-5977d89d2589.png)
 ## Результат работы программы: ##
 ![image](https://user-images.githubusercontent.com/32647200/53032780-94e4ed80-3480-11e9-91e3-21d7fad14cc2.png)
+![image](https://user-images.githubusercontent.com/32647200/53034326-feb2c680-3483-11e9-80f6-047eef3e8965.png)
+
+А- граф
+Б- матрица смежности
+В- матрица инцидентности 
